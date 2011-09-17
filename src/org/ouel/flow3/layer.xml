@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Templates">
+        <folder name="Project">
+            <folder name="PHP">
+                <file name="Flow3Project.zip" url="Flow3Project.zip">
+                    <attr name="displayName" bundlevalue="org.ouel.flow3.Bundle#Templates/Project/PHP/Flow3Project.zip"/>
+                    <attr name="iconBase" stringvalue="org/ouel/flow3/ressources/f3_logo.gif"/>
+                    <attr name="instantiatingIterator" methodvalue="org.ouel.flow3.Flow3WizardIterator.createIterator"/>
+                    <attr name="instantiatingWizardURL" urlvalue="nbresloc:/org/ouel/flow3/Flow3Description.html"/>
+                    <attr name="template" boolvalue="true"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

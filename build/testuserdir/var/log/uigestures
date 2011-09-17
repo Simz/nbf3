@@ -1,0 +1,620 @@
+<record>
+  <date>2011-09-15T22:47:23</date>
+  <millis>1316126843218</millis>
+  <sequence>5</sequence>
+  <level>FINEST</level>
+  <thread>10</thread>
+  <message>CPU INFO</message>
+  <param>1</param>
+</record>
+<record>
+  <date>2011-09-15T22:47:23</date>
+  <millis>1316126843255</millis>
+  <sequence>6</sequence>
+  <level>FINEST</level>
+  <thread>10</thread>
+  <message>SCREEN SIZE</message>
+  <param>1024</param>
+  <param>600</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2011-09-15T22:47:23</date>
+  <millis>1316126843255</millis>
+  <sequence>7</sequence>
+  <level>CONFIG</level>
+  <thread>10</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2011-09-15T22:47:32</date>
+  <millis>1316126852781</millis>
+  <sequence>12</sequence>
+  <level>INFO</level>
+  <thread>11</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>1848381440</param>
+</record>
+<record>
+  <date>2011-09-15T22:47:34</date>
+  <millis>1316126854351</millis>
+  <sequence>15</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>14</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[New Project...]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.modules.project.ui.actions.NewProject[Ne&amp;w Project...]</param>
+  <param>org.netbeans.modules.project.ui.actions.NewProject</param>
+  <param>Ne&amp;w Project...</param>
+</record>
+<record>
+  <date>2011-09-15T22:48:14</date>
+  <millis>1316126894362</millis>
+  <sequence>4743</sequence>
+  <logger>org.netbeans.ui.metrics.php</logger>
+  <level>INFO</level>
+  <thread>11</thread>
+  <message>USG_PROJECT_OPEN_PHP</message>
+  <key>USG_PROJECT_OPEN_PHP</key>
+  <catalog>org.netbeans.modules.php.project.Bundle</catalog>
+  <param></param>
+</record>
+<record>
+  <date>2011-09-15T22:48:14</date>
+  <millis>1316126894431</millis>
+  <sequence>4744</sequence>
+  <logger>org.netbeans.ui.projects</logger>
+  <level>CONFIG</level>
+  <thread>11</thread>
+  <message>UI_OPEN_PROJECTS</message>
+  <key>UI_OPEN_PROJECTS</key>
+  <catalog>org.netbeans.modules.project.ui.Bundle</catalog>
+  <param>org.netbeans.modules.php.project.PhpProject</param>
+  <param>PhpProject</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2011-09-15T22:48:14</date>
+  <millis>1316126894432</millis>
+  <sequence>4745</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>INFO</level>
+  <thread>11</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.php.project.PhpProject</param>
+</record>
+<record>
+  <date>2011-09-15T22:51:35</date>
+  <millis>1316127095587</millis>
+  <sequence>4</sequence>
+  <level>FINEST</level>
+  <thread>10</thread>
+  <message>CPU INFO</message>
+  <param>1</param>
+</record>
+<record>
+  <date>2011-09-15T22:51:35</date>
+  <millis>1316127095595</millis>
+  <sequence>5</sequence>
+  <level>FINEST</level>
+  <thread>10</thread>
+  <message>SCREEN SIZE</message>
+  <param>1024</param>
+  <param>600</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2011-09-15T22:51:35</date>
+  <millis>1316127095596</millis>
+  <sequence>6</sequence>
+  <level>CONFIG</level>
+  <thread>10</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2011-09-15T22:51:40</date>
+  <millis>1316127100387</millis>
+  <sequence>9</sequence>
+  <logger>org.netbeans.ui.metrics.php</logger>
+  <level>INFO</level>
+  <thread>11</thread>
+  <message>USG_PROJECT_OPEN_PHP</message>
+  <key>USG_PROJECT_OPEN_PHP</key>
+  <catalog>org.netbeans.modules.php.project.Bundle</catalog>
+  <param></param>
+</record>
+<record>
+  <date>2011-09-15T22:51:40</date>
+  <millis>1316127100921</millis>
+  <sequence>10</sequence>
+  <logger>org.netbeans.ui.projects</logger>
+  <level>CONFIG</level>
+  <thread>11</thread>
+  <message>UI_INIT_PROJECTS</message>
+  <key>UI_INIT_PROJECTS</key>
+  <catalog>org.netbeans.modules.project.ui.Bundle</catalog>
+  <param>org.netbeans.modules.php.project.PhpProject</param>
+  <param>PhpProject</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2011-09-15T22:51:40</date>
+  <millis>1316127100922</millis>
+  <sequence>11</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>INFO</level>
+  <thread>11</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.php.project.PhpProject</param>
+</record>
+<record>
+  <date>2011-09-15T22:51:49</date>
+  <millis>1316127109366</millis>
+  <sequence>19</sequence>
+  <level>INFO</level>
+  <thread>13</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>1848381440</param>
+</record>
+<record>
+  <date>2011-09-15T22:51:56</date>
+  <millis>1316127116963</millis>
+  <sequence>22</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>16</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>javax.swing.JMenuItem[Delete]</param>
+  <param>javax.swing.JMenuItem</param>
+  <param>org.netbeans.modules.project.ui.actions.ProjectAction[Delete]</param>
+  <param>org.netbeans.modules.project.ui.actions.ProjectAction</param>
+  <param>Delete</param>
+</record>
+<record>
+  <date>2011-09-15T22:51:56</date>
+  <millis>1316127116964</millis>
+  <sequence>23</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINE</level>
+  <thread>16</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>javax.swing.JMenuItem[Delete]</param>
+  <param>javax.swing.JMenuItem</param>
+  <param>org.netbeans.modules.project.ui.actions.ProjectAction[Delete]</param>
+  <param>org.netbeans.modules.project.ui.actions.ProjectAction</param>
+  <param>Delete</param>
+</record>
+<record>
+  <date>2011-09-15T22:51:56</date>
+  <millis>1316127116965</millis>
+  <sequence>24</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINE</level>
+  <thread>16</thread>
+  <message>PROJECT_ACTION</message>
+  <key>PROJECT_ACTION</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>org.netbeans.modules.project.ui.actions.ProjectAction</param>
+  <param>org.netbeans.modules.php.project.PhpProject</param>
+  <param>Delete</param>
+</record>
+<record>
+  <date>2011-09-15T22:52:05</date>
+  <millis>1316127125600</millis>
+  <sequence>25</sequence>
+  <logger>org.netbeans.ui.projects</logger>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>UI_CLOSED_PROJECTS</message>
+  <key>UI_CLOSED_PROJECTS</key>
+  <catalog>org.netbeans.modules.project.ui.Bundle</catalog>
+  <param>org.netbeans.modules.php.project.PhpProject</param>
+  <param>PhpProject</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2011-09-15T22:52:05</date>
+  <millis>1316127125602</millis>
+  <sequence>26</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>INFO</level>
+  <thread>13</thread>
+  <message>USG_PROJECT_CLOSE</message>
+  <param>org.netbeans.modules.php.project.PhpProject</param>
+</record>
+<record>
+  <date>2011-09-15T22:52:08</date>
+  <millis>1316127128554</millis>
+  <sequence>29</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>16</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[New Project...]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.modules.project.ui.actions.NewProject[Ne&amp;w Project...]</param>
+  <param>org.netbeans.modules.project.ui.actions.NewProject</param>
+  <param>Ne&amp;w Project...</param>
+</record>
+<record>
+  <date>2011-09-15T22:53:48</date>
+  <millis>1316127228643</millis>
+  <sequence>4</sequence>
+  <level>FINEST</level>
+  <thread>10</thread>
+  <message>CPU INFO</message>
+  <param>1</param>
+</record>
+<record>
+  <date>2011-09-15T22:53:48</date>
+  <millis>1316127228685</millis>
+  <sequence>5</sequence>
+  <level>FINEST</level>
+  <thread>10</thread>
+  <message>SCREEN SIZE</message>
+  <param>1024</param>
+  <param>600</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2011-09-15T22:53:48</date>
+  <millis>1316127228685</millis>
+  <sequence>6</sequence>
+  <level>CONFIG</level>
+  <thread>10</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2011-09-15T22:53:57</date>
+  <millis>1316127237036</millis>
+  <sequence>11</sequence>
+  <level>INFO</level>
+  <thread>11</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>1848381440</param>
+</record>
+<record>
+  <date>2011-09-15T22:54:01</date>
+  <millis>1316127241173</millis>
+  <sequence>14</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>14</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[New Project...]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.modules.project.ui.actions.NewProject[Ne&amp;w Project...]</param>
+  <param>org.netbeans.modules.project.ui.actions.NewProject</param>
+  <param>Ne&amp;w Project...</param>
+</record>
+<record>
+  <date>2011-09-15T22:55:51</date>
+  <millis>1316127351468</millis>
+  <sequence>4</sequence>
+  <level>FINEST</level>
+  <thread>10</thread>
+  <message>CPU INFO</message>
+  <param>1</param>
+</record>
+<record>
+  <date>2011-09-15T22:55:51</date>
+  <millis>1316127351477</millis>
+  <sequence>5</sequence>
+  <level>FINEST</level>
+  <thread>10</thread>
+  <message>SCREEN SIZE</message>
+  <param>1024</param>
+  <param>600</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2011-09-15T22:55:51</date>
+  <millis>1316127351478</millis>
+  <sequence>6</sequence>
+  <level>CONFIG</level>
+  <thread>10</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2011-09-15T22:56:00</date>
+  <millis>1316127360404</millis>
+  <sequence>9</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>11</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[New Project...]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.modules.project.ui.actions.NewProject[Ne&amp;w Project...]</param>
+  <param>org.netbeans.modules.project.ui.actions.NewProject</param>
+  <param>Ne&amp;w Project...</param>
+</record>
+<record>
+  <date>2011-09-15T22:56:00</date>
+  <millis>1316127360542</millis>
+  <sequence>12</sequence>
+  <level>INFO</level>
+  <thread>12</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>1848381440</param>
+</record>
+<record>
+  <date>2011-09-15T22:57:44</date>
+  <millis>1316127464659</millis>
+  <sequence>4</sequence>
+  <level>FINEST</level>
+  <thread>10</thread>
+  <message>CPU INFO</message>
+  <param>1</param>
+</record>
+<record>
+  <date>2011-09-15T22:57:44</date>
+  <millis>1316127464667</millis>
+  <sequence>5</sequence>
+  <level>FINEST</level>
+  <thread>10</thread>
+  <message>SCREEN SIZE</message>
+  <param>1024</param>
+  <param>600</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2011-09-15T22:57:44</date>
+  <millis>1316127464667</millis>
+  <sequence>6</sequence>
+  <level>CONFIG</level>
+  <thread>10</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2011-09-15T22:57:52</date>
+  <millis>1316127472660</millis>
+  <sequence>11</sequence>
+  <level>INFO</level>
+  <thread>11</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>1848381440</param>
+</record>
+<record>
+  <date>2011-09-15T22:57:56</date>
+  <millis>1316127476957</millis>
+  <sequence>14</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>14</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[New Project...]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.modules.project.ui.actions.NewProject[Ne&amp;w Project...]</param>
+  <param>org.netbeans.modules.project.ui.actions.NewProject</param>
+  <param>Ne&amp;w Project...</param>
+</record>
+<record>
+  <date>2011-09-15T23:05:46</date>
+  <millis>1316127946155</millis>
+  <sequence>4</sequence>
+  <level>FINEST</level>
+  <thread>10</thread>
+  <message>CPU INFO</message>
+  <param>1</param>
+</record>
+<record>
+  <date>2011-09-15T23:05:46</date>
+  <millis>1316127946162</millis>
+  <sequence>5</sequence>
+  <level>FINEST</level>
+  <thread>10</thread>
+  <message>SCREEN SIZE</message>
+  <param>1024</param>
+  <param>600</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2011-09-15T23:05:46</date>
+  <millis>1316127946163</millis>
+  <sequence>6</sequence>
+  <level>CONFIG</level>
+  <thread>10</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2011-09-15T23:05:54</date>
+  <millis>1316127954406</millis>
+  <sequence>11</sequence>
+  <level>INFO</level>
+  <thread>11</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>1848381440</param>
+</record>
+<record>
+  <date>2011-09-15T23:06:05</date>
+  <millis>1316127965442</millis>
+  <sequence>14</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>14</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[New Project...]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.modules.project.ui.actions.NewProject[Ne&amp;w Project...]</param>
+  <param>org.netbeans.modules.project.ui.actions.NewProject</param>
+  <param>Ne&amp;w Project...</param>
+</record>
+<record>
+  <date>2011-09-15T23:06:21</date>
+  <millis>1316127981671</millis>
+  <sequence>17</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>14</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2011-09-15T23:08:38</date>
+  <millis>1316128118386</millis>
+  <sequence>18</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>15</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>240</param>
+</record>
+<record>
+  <date>2011-09-15T23:09:06</date>
+  <millis>1316128146488</millis>
+  <sequence>4</sequence>
+  <level>FINEST</level>
+  <thread>10</thread>
+  <message>CPU INFO</message>
+  <param>1</param>
+</record>
+<record>
+  <date>2011-09-15T23:09:06</date>
+  <millis>1316128146496</millis>
+  <sequence>5</sequence>
+  <level>FINEST</level>
+  <thread>10</thread>
+  <message>SCREEN SIZE</message>
+  <param>1024</param>
+  <param>600</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2011-09-15T23:09:06</date>
+  <millis>1316128146496</millis>
+  <sequence>6</sequence>
+  <level>CONFIG</level>
+  <thread>10</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2011-09-15T23:09:13</date>
+  <millis>1316128153798</millis>
+  <sequence>9</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>11</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[New Project...]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.netbeans.modules.project.ui.actions.NewProject[Ne&amp;w Project...]</param>
+  <param>org.netbeans.modules.project.ui.actions.NewProject</param>
+  <param>Ne&amp;w Project...</param>
+</record>
+<record>
+  <date>2011-09-15T23:09:16</date>
+  <millis>1316128156150</millis>
+  <sequence>14</sequence>
+  <level>INFO</level>
+  <thread>13</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>1848381440</param>
+</record>
+<record>
+  <date>2011-09-15T23:09:34</date>
+  <millis>1316128174882</millis>
+  <sequence>4734</sequence>
+  <logger>org.netbeans.ui.metrics.php</logger>
+  <level>INFO</level>
+  <thread>13</thread>
+  <message>USG_PROJECT_OPEN_PHP</message>
+  <key>USG_PROJECT_OPEN_PHP</key>
+  <catalog>org.netbeans.modules.php.project.Bundle</catalog>
+  <param></param>
+</record>
+<record>
+  <date>2011-09-15T23:09:34</date>
+  <millis>1316128174925</millis>
+  <sequence>4735</sequence>
+  <logger>org.netbeans.ui.projects</logger>
+  <level>CONFIG</level>
+  <thread>13</thread>
+  <message>UI_OPEN_PROJECTS</message>
+  <key>UI_OPEN_PROJECTS</key>
+  <catalog>org.netbeans.modules.project.ui.Bundle</catalog>
+  <param>org.netbeans.modules.php.project.PhpProject</param>
+  <param>PhpProject</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2011-09-15T23:09:34</date>
+  <millis>1316128174930</millis>
+  <sequence>4736</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>INFO</level>
+  <thread>13</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.php.project.PhpProject</param>
+</record>
+<record>
+  <date>2011-09-15T23:09:51</date>
+  <millis>1316128191780</millis>
+  <sequence>4773</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>11</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2011-09-15T23:09:59</date>
+  <millis>1316128199980</millis>
+  <sequence>4776</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>11</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2011-09-15T23:10:08</date>
+  <millis>1316128208089</millis>
+  <sequence>4779</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>10189</param>
+</record>

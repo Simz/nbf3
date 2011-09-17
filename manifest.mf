@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.ouel.flow3
+OpenIDE-Module-Layer: org/ouel/flow3/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/ouel/flow3/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

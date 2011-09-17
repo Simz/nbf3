@@ -1,0 +1,1 @@
+ERROR:2:Syntax error\d\nexpected\d instanceof, \d\d, OR, XOR, AND, ?, ';', ||, &&, |, ^, &, ==, !=, ===, !==, <=+, >=+, <, >, <<, >>, +, -, *, /, %, '.', (, '\d'
